@@ -2,7 +2,7 @@
   "name": "cadex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://borissska.github.io/cadex/",
+  "homepage": "/cadex",
   "dependencies": {
     "@ant-design/icons": "^6.0.0",
     "@react-three/drei": "^10.1.2",
