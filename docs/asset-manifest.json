@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.39a41183.css",
-    "main.js": "/static/js/main.03b6a2aa.js",
-    "index.html": "/index.html",
-    "main.39a41183.css.map": "/static/css/main.39a41183.css.map",
-    "main.03b6a2aa.js.map": "/static/js/main.03b6a2aa.js.map"
+    "main.css": "/cadex/static/css/main.39a41183.css",
+    "main.js": "/cadex/static/js/main.77468088.js",
+    "index.html": "/cadex/index.html",
+    "main.39a41183.css.map": "/cadex/static/css/main.39a41183.css.map",
+    "main.77468088.js.map": "/cadex/static/js/main.77468088.js.map"
   },
   "entrypoints": [
     "static/css/main.39a41183.css",
-    "static/js/main.03b6a2aa.js"
+    "static/js/main.77468088.js"
   ]
 }

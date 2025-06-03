@@ -2,6 +2,7 @@
   "name": "cadex",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://borissska.github.io/cadex/",
   "dependencies": {
     "@ant-design/icons": "^6.0.0",
     "@react-three/drei": "^10.1.2",
@@ -24,7 +25,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && rmdir /s /q docs && move build docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
