@@ -54,6 +54,9 @@ export const createPrimitives = (
       colors: Array.from({ length: type === 'box' ? 6 : 5 }, () => generateRandomColor()),
       selected: false
     };
+
+    console.log(primitive);
+
     primitives.push(primitive);
     allPrimitives.push(primitive);
   }

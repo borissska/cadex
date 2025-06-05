@@ -59,7 +59,7 @@ export const PrimitiveList: React.FC<PrimitiveListProps> = ({
               <Text strong>{primitive.type}</Text>
               <br />
               <Text type='secondary' style={{ fontSize: "12px" }}>
-                Position: ({primitive.position.map((p) => p.toFixed(1)).join(", ")})
+                Position: ({primitive.position.map((p) => p.toFixed(2)).join(", ")})
               </Text>
             </div>
           </div>

@@ -14,7 +14,6 @@ export const Viewer: React.FC<ViewerProps> = ({ primitives, onPrimitiveClick }) 
     <div style={{ width: "100%", height: "100%" }}>
       <Canvas camera={{ position: [0, 0, 10] }}>
         <ambientLight intensity={1.0} />
-        <pointLight position={[10, 10, 10]} intensity={1.5} />
         <OrbitControls />
         {primitives.map((primitive) => (
           <Primitive
