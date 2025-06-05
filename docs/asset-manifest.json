@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cadex/static/css/main.39a41183.css",
-    "main.js": "/cadex/static/js/main.77468088.js",
+    "main.js": "/cadex/static/js/main.9b4fffdc.js",
     "index.html": "/cadex/index.html",
     "main.39a41183.css.map": "/cadex/static/css/main.39a41183.css.map",
-    "main.77468088.js.map": "/cadex/static/js/main.77468088.js.map"
+    "main.9b4fffdc.js.map": "/cadex/static/js/main.9b4fffdc.js.map"
   },
   "entrypoints": [
     "static/css/main.39a41183.css",
-    "static/js/main.77468088.js"
+    "static/js/main.9b4fffdc.js"
   ]
 }
